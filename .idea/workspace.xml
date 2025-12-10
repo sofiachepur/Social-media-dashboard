@@ -5,19 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="636b2745-ab48-4b94-81ef-b64d93a2db46" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Media/favicon-32x32.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/icon-down.svg" beforeDir="false" afterPath="$PROJECT_DIR$/Media/icon-down.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/icon-facebook.svg" beforeDir="false" afterPath="$PROJECT_DIR$/Media/icon-facebook.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/icon-instagram.svg" beforeDir="false" afterPath="$PROJECT_DIR$/Media/icon-instagram.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/icon-twitter.svg" beforeDir="false" afterPath="$PROJECT_DIR$/Media/icon-twitter.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/icon-up.svg" beforeDir="false" afterPath="$PROJECT_DIR$/Media/icon-up.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/icon-youtube.svg" beforeDir="false" afterPath="$PROJECT_DIR$/Media/icon-youtube.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -103,7 +92,8 @@
       <workItem from="1764954622450" duration="3403000" />
       <workItem from="1765274834053" duration="2379000" />
       <workItem from="1765277816004" duration="594000" />
-      <workItem from="1765307233554" duration="6714000" />
+      <workItem from="1765307233554" duration="7061000" />
+      <workItem from="1765365557946" duration="2233000" />
     </task>
     <servers />
   </component>
